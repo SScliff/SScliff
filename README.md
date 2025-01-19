@@ -1,4 +1,4 @@
-# 🌟 Olá! Eu sou [Daniel Sousa] 👋
+# 🌟 Olá! Eu sou Daniel Sousa 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou [estudante de analise e desenvolvimento de sistemas, desenvolvedor de software e um entusiasta da análise de dados].
 
