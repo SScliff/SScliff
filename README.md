@@ -1,7 +1,7 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Daniel Sousa  👋
 
-[![Seguidores GitHub](https://img.shields.io/github/followers/seuusername?label=Seguir&style=social)](https://github.com/seuusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/daniel-sousa-438b88257/))
+[![Seguidores GitHub](https://img.shields.io/github/followers/seuusername?label=Seguir&style=social)](https://github.com/SScliff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](/www.linkedin.com/in/daniel-sousa-438b88257/)
 
 Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e banco de dados. Sempre aprendendo e construindo coisas novas!
 
@@ -14,9 +14,9 @@ Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/seuusername)
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SScliff)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/seuusername)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/SScliff)
 
 ## 📫 Vamos nos conectar!
 
