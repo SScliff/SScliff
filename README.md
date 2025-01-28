@@ -16,12 +16,14 @@ Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e
 
 ![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=SScliff&theme=onedark&row=2&column=4)
 
-![Sequência GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SScliff&theme=dark&hide_border=true)
 
 ## 📫 Vamos nos conectar!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-sousa-438b88257/)
 - 📧 E-mail: sdanielsousa.024@gmail.com
+
+## 🎓 Formação Acadêmica
+- **Analise e Desenvolvimento de Sistemas** na Universidade Anhanguera (2023 - Atualmente)
 
 ## ⚡ Curiosidade
 
