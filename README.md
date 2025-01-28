@@ -14,9 +14,9 @@ Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SScliff)
+![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=SScliff&theme=onedark&row=2&column=4)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/SScliff)
+![Sequência GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SScliff&theme=dark&hide_border=true)
 
 ## 📫 Vamos nos conectar!
 
