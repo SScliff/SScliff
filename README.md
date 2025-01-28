@@ -1,26 +1,28 @@
-# 🌟 Olá! Eu sou Daniel Sousa 👋
+# Olá, eu sou [Seu Nome] 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou [estudante de analise e desenvolvimento de sistemas, desenvolvedor de software e um entusiasta da análise de dados].
+[![Seguidores GitHub](https://img.shields.io/github/followers/seuusername?label=Seguir&style=social)](https://github.com/seuusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/daniel-sousa-438b88257/))
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Javascript, HTML
-- **Ferramentas:** Power BI, Excel intermediario, Git, Docker
-- **Interesses:** Análise de Dados, Automação de Processos, Desenvolvimento de Dashboards
+Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e banco de dados. Sempre aprendendo e construindo coisas novas!
 
-## 🌱 O que estou aprendendo
-Atualmente, estou focado em:
-- 🚀 Aprendizado de javascript, pyton e powerBi
-- 📊 Melhorar minhas habilidades em comunicação.
-- 📚 Cursos da ALURA ONE, Faculdade de analise e desenvolvimento pela Anhanguera
+## 🛠️ Tecnologias & Ferramentas
 
-## 🎯 Meus Objetivos
-- Criar projetos de análise de dados que demonstrem habilidades em Python e Power BI
-- Compartilhar conhecimento através de tutoriais e exemplos de código
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📫 Como entrar em contato comigo
-- **E-mail:** [sdanielsousa.024@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-sousa-438b88257/](https://www.linkedin.com/in/daniel-sousa-438b88257/)
+## 📈 Estatísticas do GitHub
 
----
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/seuusername)
 
-✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e colaborar em algo interessante! 🚀
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/seuusername)
+
+## 📫 Vamos nos conectar!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-sousa-438b88257/)
+- 📧 E-mail: sdanielsousa.024@gmail.com
+
+## ⚡ Curiosidade
+
+Programo melhor com uma xícara de café ☕ do que com o Spotify ligado!
