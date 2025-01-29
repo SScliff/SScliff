@@ -1,8 +1,5 @@
 # Olá, eu sou Daniel Sousa  👋
 
-[![Seguidores GitHub](https://img.shields.io/github/followers/seuusername?label=Seguir&style=social)](https://github.com/SScliff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](/www.linkedin.com/in/daniel-sousa-438b88257/)
-
 Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e banco de dados. Sempre aprendendo e construindo coisas novas!
 
 ## 🛠️ Tecnologias & Ferramentas
