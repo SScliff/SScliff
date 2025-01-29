@@ -13,6 +13,7 @@ Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e
 
 ![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=SScliff&theme=onedark&row=2&column=4)
 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SScliff&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 📫 Vamos nos conectar!
 
