@@ -21,7 +21,7 @@ Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e
 - 📧 E-mail: sdanielsousa.024@gmail.com
 
 ## 🎓 Formação Acadêmica
-- **Analise e Desenvolvimento de Sistemas** na Universidade Anhanguera (2023 - Atualmente)
+- **Analise e Desenvolvimento de Sistemas** na Universidade Anhanguera (2024 - Atualmente)
 
 ## ⚡ Curiosidade
 
