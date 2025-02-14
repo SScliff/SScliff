@@ -1,28 +1,21 @@
-# Olá, eu sou Daniel Sousa  👋
+# 💫 About Me:
+🌱 Atualmente estou estudando analise e desenvolvimento de softwares, <br>      python, analise de dados e muito estudo em logica<br>⚡ Trabalho escutando de rock até musica clássica e também lo-fi eclético talvez?
 
-Sou um(a) Estudante apaixonado(a) por Analise de Dados, programação back-end e banco de dados. Sempre aprendendo e construindo coisas novas!
 
-## 🛠️ Tecnologias & Ferramentas
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-sousa-438b88257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdanielsousa.024@gmail.com) 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SScliff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SScliff&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SScliff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📈 Estatísticas do GitHub
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=SScliff&theme=onedark&row=2&column=4)
+---
+[![](https://visitcount.itsvg.in/api?id=SScliff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SScliff&layout=compact&langs_count=7&theme=dracula"/>
-
-## 📫 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-sousa-438b88257/)
-- 📧 E-mail: sdanielsousa.024@gmail.com
-
-## 🎓 Formação Acadêmica
-- **Analise e Desenvolvimento de Sistemas** na Universidade Anhanguera (2024 - Atualmente)
-
-## ⚡ Curiosidade
-
-Programo melhor com uma xícara de café ☕ do que com o Spotify ligado!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
